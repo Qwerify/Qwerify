@@ -5,15 +5,15 @@ It delivers secure messaging, a clean interface, and useful features without unn
 
 Features:
 
-Secure, private communication. 
-
-Distraction-free design — no clutter, no noise. 
-
-Web frontend and scalable backend. 
-
-Mobile app (React Native, in progress). 
-
-Documentation and developer resources. 
+  Secure, private communication. 
+  
+  Distraction-free design — no clutter, no noise. 
+  
+  Web frontend and scalable backend. 
+  
+  Mobile app (React Native, in progress). 
+  
+  Documentation and developer resources. 
 
 
 Contributing
