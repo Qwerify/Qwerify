@@ -16,5 +16,6 @@ Features:
   Documentation and developer resources. 
 
 
-Contributing
-We welcome contributions! Please open an issue or submit a pull request if you’d like to help improve Qwerify.
+Contributing:
+
+  We welcome contributions! Please open an issue or submit a pull request if you’d like to help improve Qwerify.
